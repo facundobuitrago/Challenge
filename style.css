@@ -150,8 +150,14 @@ body{
 #copiar:hover {
     background: #FFFFFa;
     transform: scale(1.2);
+}
+    footer{
+        text-align: center;
+        background: url(imagenes/bg.jpg);
+        padding:40px;
+    }
 
- }
+ 
  .copyright{
     color: black;
     font-size: 13px;
